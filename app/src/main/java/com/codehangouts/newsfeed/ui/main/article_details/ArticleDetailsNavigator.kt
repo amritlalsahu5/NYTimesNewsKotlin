@@ -1,0 +1,3 @@
+package com.codehangouts.newsfeed.ui.main.article_details
+
+interface ArticleDetailsNavigator
